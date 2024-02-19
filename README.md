@@ -8,12 +8,12 @@
 <hr>
 <hr>
 
-<center><img src="https://github.com/arpy8/Hastakriti/assets/74809468/015c7536-053a-41ce-b910-7a3ddc5bcc49" alt="here are some of the key features"></center>
+<center><img src="https://github.com/arpy8/Hastakriti/assets/74809468/05c01376-491e-4eb6-a798-3512251f2c3f" alt="here are some of the key features"></center>
 
 <hr>
 <hr>
 
-[![Limbo The Voice Bot](https://github.com/arpy8/Hastakriti/assets/74809468/ac2852c2-5852-4588-9cbe-6bb9bbbbc6d3)](https://youtu.be/4pgBAKzHl-4)
+[![Limbo The Voice Bot](https://github.com/arpy8/Hastakriti/assets/74809468/39f84750-758b-4089-9c16-d96e86ed6aac)](https://youtu.be/4pgBAKzHl-4)
 
 <hr>
 
