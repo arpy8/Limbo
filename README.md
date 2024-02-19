@@ -13,7 +13,7 @@
 <hr>
 <hr>
 
-[![Limbo The Voice Bot](https://github.com/arpy8/Hastakriti/assets/74809468/39f84750-758b-4089-9c16-d96e86ed6aac)](https://youtu.be/4pgBAKzHl-4)
+[![Limbo The Voice Bot](https://github.com/arpy8/Hastakriti/assets/74809468/9f4e2863-34e7-4d1d-b4b3-44982156aa68)](https://youtu.be/4pgBAKzHl-4)
 
 <hr>
 
