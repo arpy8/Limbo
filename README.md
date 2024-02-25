@@ -1,33 +1,32 @@
-[![banner](https://github.com/arpy8/Hastakriti/assets/74809468/68c0e920-ef52-4e09-8220-5a2075edb85d)](https://youtu.be/506v0rJ-UJY)
-![welcome message](https://github.com/arpy8/Hastakriti/assets/74809468/7cd5779c-943d-472e-af3f-65d68beb9b46)
+[![banner](https://github.com/arpy8/Hastakriti/assets/74809468/48a3d62b-a963-48f2-9b5f-f4fddd715091)](https://youtu.be/506v0rJ-UJY)
+![welcome message](https://github.com/arpy8/Hastakriti/assets/74809468/e89e22de-caf0-433a-b2c4-e846d711e913)
+
+<br>  
+
+[![mr hands](https://github.com/arpy8/Hastakriti/assets/74809468/235a0512-5ec9-449a-8a2c-c7a5fb965b58)](https://youtu.be/J1CK0fdVMpE)
+
+<hr>
+<hr>
+
+<center><img src="https://github.com/arpy8/Hastakriti/assets/74809468/87d78858-33bf-4f9c-b54f-4cf186c5d986" alt="here are some of the key features"></center>
+
+<hr>
+<hr>
+
+[![Limbo The Voice Bot](https://github.com/arpy8/Hastakriti/assets/74809468/c75bff75-0a10-427d-9ab9-8329b67c569b)](https://youtu.be/4pgBAKzHl-4)
+
+<hr>
+
+![User Personlized Custom Skins](https://github.com/arpy8/Hastakriti/assets/74809468/c10742f9-c8e3-4119-9e53-2b3796ffb67f)
 
 <br>
 
-[![mr hands](https://github.com/arpy8/Hastakriti/assets/74809468/a934a6f4-8da8-49e8-80a8-dbc0cb94c3f6)](https://youtu.be/J1CK0fdVMpE)
-
-<hr>
-<hr>
-
-<center><img src="https://github.com/arpy8/Hastakriti/assets/74809468/05c01376-491e-4eb6-a798-3512251f2c3f" alt="here are some of the key features"></center>
-
-<hr>
-<hr>
-
-[![Limbo The Voice Bot](https://github.com/arpy8/Hastakriti/assets/74809468/9f4e2863-34e7-4d1d-b4b3-44982156aa68)](https://youtu.be/4pgBAKzHl-4)
+![More Skins](https://github.com/arpy8/Hastakriti/assets/74809468/8770c544-5ad0-4e15-a7aa-14b8a3921a30)
 
 <hr>
 
-![User Personlized Custom Skins](https://github.com/arpy8/Hastakriti/assets/74809468/03ae0055-59b4-403b-acda-facbb3b0a80a)
-
-<br>
-
-![More Skins](https://github.com/arpy8/Hastakriti/assets/74809468/ddd248a6-b2dd-45e5-826c-2e2b086ec284)
+[![Virtual Try-On Kiosk](https://github.com/arpy8/Hastakriti/assets/74809468/93cd20a7-de9e-407c-8fc1-3f0a3f4a6995)](https://youtube.com/shorts/NkBH4w60zgU)
 
 <hr>
 
-[![Virtual Try-On Kiosk](https://github.com/arpy8/Hastakriti/assets/74809468/d39d61f5-fabd-4e98-aa3a-a5bfa372eed2)](https://youtube.com/shorts/NkBH4w60zgU)
-
-<hr>
-
-[![website](https://github.com/arpy8/Hastakriti/assets/74809468/9a45cc86-319a-4bf1-9a08-301adf08a1ab)](https://hastakriti.vercel.app/)
-
+[![website](https://github.com/arpy8/Hastakriti/assets/74809468/e5e35611-e9c5-4ca3-9c33-b28c526129b1)](https://hastakriti.vercel.app/)
