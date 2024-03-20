@@ -1,5 +1,5 @@
-[![banner](https://github.com/arpy8/Hastakriti/assets/74809468/48a3d62b-a963-48f2-9b5f-f4fddd715091)](https://youtu.be/506v0rJ-UJY)
-![welcome message](https://github.com/arpy8/Hastakriti/assets/74809468/e89e22de-caf0-433a-b2c4-e846d711e913)
+![banner](https://github.com/arpy8/Limbo/assets/74809468/60239601-e3c4-47ad-8527-03a4f3d2def8)
+![welcome message](https://github.com/arpy8/Limbo/assets/74809468/fa9023c4-ce27-4f39-a114-e25b57f2c23c)
 
 <br>  
 
@@ -29,4 +29,4 @@
 
 <hr>
 
-[![website](https://github.com/arpy8/Hastakriti/assets/74809468/e5e35611-e9c5-4ca3-9c33-b28c526129b1)](https://hastakriti.vercel.app/)
+[![website](https://github.com/arpy8/Limbo/assets/74809468/524dd388-0bf4-4178-9c30-7af23f2e58ae)](https://hastakriti.vercel.app/)
