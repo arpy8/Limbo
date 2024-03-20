@@ -29,4 +29,4 @@
 
 <hr>
 
-[![website](https://github.com/arpy8/Limbo/assets/74809468/524dd388-0bf4-4178-9c30-7af23f2e58ae)](https://Limbo.vercel.app/)
+[![website](https://github.com/arpy8/Limbo/assets/74809468/d6b1254d-c6e6-4ba9-9752-f8f8d071974f)](https://limbo-1jp4.onrender.com/)
