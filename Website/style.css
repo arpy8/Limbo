@@ -1,6 +1,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
 
 @font-face {
   font-family: hindi-font;
@@ -11,6 +12,11 @@
   font-family: hindi-font-2;
   src: url(assets/misc/Ananda_Neptouch_Regular.ttf);
 }
+
+.oxanium {
+  font-family: "Oxanium", sans-serif !important;
+}
+
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -57,17 +63,15 @@ h6 {
 
 #hero h1 {
   font-weight: 100 !important;
-  margin: 0;
   line-height: 56px;
   text-transform: uppercase;
   color: #FFFFFF;
   font-size: 10rem !important;
-  margin: 11vh 0 0 0;
   text-shadow: 0px 2px 15px rgba(44, 73, 100, 0.4);
 }
 
 #hero a {
-  margin: 10rem 0 !important; 
+  margin: 10rem 0 !important;
 }
 
 /*--------------------------------------------------------------
@@ -446,6 +450,7 @@ h6 {
 
 #hero a {
   position: absolute;
+  /* margin-right: 1000%; */
 }
 
 #hero:before {
