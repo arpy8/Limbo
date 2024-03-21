@@ -1,5 +1,5 @@
 ![banner](https://github.com/arpy8/Limbo/assets/74809468/60239601-e3c4-47ad-8527-03a4f3d2def8)
-![welcome message](https://github.com/arpy8/Limbo/assets/74809468/fa9023c4-ce27-4f39-a114-e25b57f2c23c)
+![welcome message](https://github.com/arpy8/Limbo/assets/74809468/c9f2c782-a82c-4fe2-95da-50e35597881f)
 
 <br>  
 
