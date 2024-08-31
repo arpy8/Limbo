@@ -1,1 +1,0 @@
-The design inspirations for 3D hand models are selected assets from [www.thingiverse.com/](https://www.thingiverse.com/)
