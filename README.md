@@ -1,4 +1,7 @@
-![banner](https://github.com/arpy8/Limbo/assets/74809468/60239601-e3c4-47ad-8527-03a4f3d2def8)
+<h1><center>Hastakriti</center></h1>
+
+
+<!-- ![banner](https://github.com/arpy8/Limbo/assets/74809468/60239601-e3c4-47ad-8527-03a4f3d2def8)
 ![welcome message](https://github.com/arpy8/Limbo/assets/74809468/c9f2c782-a82c-4fe2-95da-50e35597881f)
 
 <br>  
@@ -29,4 +32,4 @@
 
 <hr>
 
-[![website](https://github.com/arpy8/Limbo/assets/74809468/d6b1254d-c6e6-4ba9-9752-f8f8d071974f)](https://limbo-1jp4.onrender.com/)
+[![website](https://github.com/arpy8/Limbo/assets/74809468/d6b1254d-c6e6-4ba9-9752-f8f8d071974f)](https://limbo-1jp4.onrender.com/) -->
