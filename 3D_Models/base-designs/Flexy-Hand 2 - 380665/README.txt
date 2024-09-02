@@ -1,1 +1,0 @@
-Flexy-Hand 2 by Gyrobot on Thingiverse: https://www.thingiverse.com/thing:380665
