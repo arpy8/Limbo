@@ -1,4 +1,4 @@
-# Project Title: Sustainable, Low-Cost Myoelectric Prosthetic Hand
+# Development of cost-effective myoelectric prosthesis
 
 ## Overview
 This project aims to develop a cost-effective, 3D-printed myoelectric prosthetic hand using custom PET-based filament made from recycled PET bottles. Our solution integrates sustainability and innovation by providing an affordable prosthetic device while reducing plastic waste, making the project eco-friendly and accessible.
